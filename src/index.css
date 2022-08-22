@@ -124,19 +124,21 @@ nav .row {
   background-size: cover;
   align-items: center;
   display: flex;
-  background-position-x: right;
+  background-position: center;
 }
 
 .banner .heading {
   font-weight: 900;
   font-size: 3.5vw;
   color: #fff;
+  text-shadow: 5px 5px 6px rgb(0 0 0 / 75%);
 }
 
 .tagline {
   font-size: 3.5vw;
   font-weight: normal;
   color: #fff;
+  text-shadow: 5px 4px 4px rgb(0 0 0 / 75%);
 }
 
 .banner p {
@@ -144,6 +146,7 @@ nav .row {
   font-size: 24px;
   font-family: 'Poppins', sans-serif;
   font-weight: normal;
+  text-shadow: 5px 1px 4px rgb(0 0 0 / 75%);
 }
 
 /* time-machine css */
